@@ -1,0 +1,98 @@
+#footer{
+    display: flex;
+    color: beige;
+    background-color: black;
+    gap: 10%;
+    
+    }
+    #para{
+    background-color: orange;
+    }
+    #items{
+        text-align: center;
+    }
+    #storage{
+        text-align: center;
+    }
+    
+        
+    #logo{
+     text-align: center;
+    
+        
+    }
+    #paragraph1{
+        text-align: center;
+    }
+    #money{
+        display: flex;
+    }
+    #audio{
+        gap: 10%;
+    }
+    #decoration{
+        text-decoration: none;
+        color: orange;
+        justify-content: space-between;
+    
+    }
+    #nav1{
+        text-decoration: none;
+        color: orange;
+        justify-content: space-between;
+    
+    }
+    #job{
+        background-color: orange;
+    }
+    
+        
+    
+        
+    
+    
+    #centered{
+        position: absolute;
+        text-align: center;
+        top: 70%;
+        left: 700px
+        colour white;
+        
+    }
+    .image{
+        position: relative;
+    }
+    
+    
+    #house{
+        display: flex;
+        gap: 20%;
+    }
+    #audio{
+        display: flex;
+    }
+    #locally{
+        display: flex;
+    }
+    #shilling{
+        gap: 10%;
+        justify-content: space-between;
+    }
+    #image2{
+        display : flex;
+    }
+    #text-container{
+        text-align: center;
+    }
+    #image2{
+        background-image: none;
+        overlay
+    
+    }
+    @media screen  and(min-width: 480px;){
+        body{
+            
+        }
+    }
+        
+    
